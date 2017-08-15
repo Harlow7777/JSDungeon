@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="maps/" kind="src" path="assets" />
+	<classpathentry kind="src" path="assets/maps" />
+	<classpathentry kind="con"
+		path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER" />
+	<classpathentry kind="output" path="" />
+</classpath>
